@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .card {
+    flex: 1;
+    margin: 100px;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 50%;
+    height: auto;
+  }
+  
+  .card p {
+    margin-top: 10px;
+  }
